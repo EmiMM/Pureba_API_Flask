@@ -9,7 +9,7 @@ Crear una API REST sencilla que reciba una lista de oraciones en español y devu
 Para utilizar y probar la API, es necesario contar con la aplicación Postman API Platform, ya que facilita la prueba de APIs.
 
 1. Se recomienda iniciar el entorno virtual, donde se instalen las librerías necesarias de Flask y Spacy
-2. Ejecutar archivo y observar salida en terminal.
+2. Ejecutar el archivo main.py y observar salida en terminal.
 3. Entrar a la URI proporcionada por la terminal, generalmente http://127.0.0.1:5000, donde se encontrará con la página de inicio.
 4. Para realizar una petició y realizar la prueba, se deberá utilizar Postman API Platform.
 5. Entre en Postman e inicie un nuevo request, indicando que es de tipo POST.
@@ -20,3 +20,4 @@ Para utilizar y probar la API, es necesario contar con la aplicación Postman AP
 
 Se muestra una captura para observar el ejemplo.
 
+![captura](https://github.com/EmiMM/Pureba_API_Flask/blob/main/ejemplo_FlaskAPI.png?raw=true)
