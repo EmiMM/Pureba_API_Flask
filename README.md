@@ -18,6 +18,9 @@ Para utilizar y probar la API, es necesario contar con la aplicación Postman AP
 8. Colocar la prueba o ejemplo en formato JSON en el cuerpo de texto.
 9. Enviar petición y observar resultados en la parte inferior.
 
+Se muestra la página de bienvenida de la API.
+![bienvenida](https://github.com/EmiMM/Pureba_API_Flask/blob/main/bienvenida.png?raw=true)
+
 Se muestra una captura para observar el ejemplo.
 
 ![captura](https://github.com/EmiMM/Pureba_API_Flask/blob/main/ejemplo_FlaskAPI.png?raw=true)
